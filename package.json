@@ -1,0 +1,36 @@
+{
+    "name": "jonager-theme",
+    "displayName": "jonager's theme",
+    "description": "A simple theme inspired by Night Owl. I tried to fix a few things I didn't like about, and chage some colors",
+    "publisher": "jonager",
+    "author": {
+      "name": "jonager"
+    },
+    "version": "0.0.1",
+    "galleryBanner":{
+      "color": "#724e7e",
+      "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+      "jonager",
+      "dark theme",
+      "like Night Owl",
+      "purple",
+      "blue"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "jonager's theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jonager's theme-color-theme.json"
+            }
+        ]
+    }
+}
