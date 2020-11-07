@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## o.o.2
+
+-Removed panel and sidebar borders, made borders and comment colors a bit darker, made terminal's colors a bit darker. Improved README.
