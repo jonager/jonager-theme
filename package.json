@@ -1,17 +1,18 @@
 {
     "name": "jonager-theme",
     "displayName": "Jonager's theme",
-    "description": "A simple theme inspired by Night Owl. Changed a things to add more contrast.",
+    "description": "A simple theme inspired by Night Owl. Changed colors to add more contrast.",
     "publisher": "jonager",
     "repository": {
       "type": "git",
       "url": "https://github.com/jonager/jonager-theme"
     },
     "license": "See LICENSE.md file",
+    "icon": "jonager-theme.png",
     "author": {
       "name": "jonager"
     },
-    "version": "0.0.3",
+    "version": "0.0.4",
     "galleryBanner":{
       "color": "#724e7e",
       "theme": "dark"

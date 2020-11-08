@@ -10,4 +10,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## o.o.2
 
--Removed panel and sidebar borders, made borders and comment colors a bit darker, made terminal's colors a bit darker. Improved README.
+- Removed panel and sidebar borders, made borders and comment colors a bit darker, made terminal's colors a bit darker. Improved README.
+
+## 0.0.4
+- Added a sample screenshot, added icon, and fixed typos.
