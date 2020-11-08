@@ -174,7 +174,8 @@
 			"scope": [
         "meta.brace",
         "meta.block",
-        "punctuation"
+        "punctuation",
+        "source.svelte"
 			],
 			"settings": {
 				"foreground": "#447e81"

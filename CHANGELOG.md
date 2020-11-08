@@ -19,3 +19,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.5
 
 - Made color for variables a bit darker, fixed color for elixir and c strings
+
+## 0.0.6
+
+- Fixed punctuation color for svelte
