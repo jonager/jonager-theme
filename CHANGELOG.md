@@ -27,3 +27,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.7
 
 - Changed banner color
+
+## 0.0.8
+
+- changed color for svelte text

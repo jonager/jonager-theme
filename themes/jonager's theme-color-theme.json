@@ -164,6 +164,7 @@
         "meta.block.cpp",
         "support",
         "keyword.other.unit",
+        "source.svelte"
 			],
 			"settings": {
 				"foreground": "#cdd2db"
@@ -174,8 +175,7 @@
 			"scope": [
         "meta.brace",
         "meta.block",
-        "punctuation",
-        "source.svelte"
+        "punctuation"
 			],
 			"settings": {
 				"foreground": "#447e81"
