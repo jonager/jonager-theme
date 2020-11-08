@@ -164,7 +164,7 @@
         "meta.block.cpp",
         "support",
         "keyword.other.unit",
-        "source.svelte"
+        "source",
 			],
 			"settings": {
 				"foreground": "#cdd2db"

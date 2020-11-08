@@ -31,3 +31,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.8
 
 - changed color for svelte text
+
+## 0.0.9
+
+- changed color "source" attr
