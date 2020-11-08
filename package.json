@@ -1,12 +1,12 @@
 {
     "name": "jonager-theme",
     "displayName": "Jonager's theme",
-    "description": "A simple theme inspired by Night Owl. I tried to fix a few things I didn't like about, and chage some colors",
+    "description": "A simple theme inspired by Night Owl. Changed a things to add more contrast.",
     "publisher": "jonager",
     "author": {
       "name": "jonager"
     },
-    "version": "0.0.2",
+    "version": "0.0.3",
     "galleryBanner":{
       "color": "#724e7e",
       "theme": "dark"
