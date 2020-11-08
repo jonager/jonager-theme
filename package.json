@@ -3,6 +3,11 @@
     "displayName": "Jonager's theme",
     "description": "A simple theme inspired by Night Owl. Changed a things to add more contrast.",
     "publisher": "jonager",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/jonager/jonager-theme"
+    },
+    "license": "See LICENSE.md file",
     "author": {
       "name": "jonager"
     },
