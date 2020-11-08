@@ -12,9 +12,9 @@
     "author": {
       "name": "jonager"
     },
-    "version": "0.0.6",
+    "version": "0.0.7",
     "galleryBanner":{
-      "color": "#724e7e",
+      "color": "#040217",
       "theme": "dark"
     },
     "engines": {

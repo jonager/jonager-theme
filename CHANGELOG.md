@@ -23,3 +23,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.6
 
 - Fixed punctuation color for svelte
+
+## 0.0.7
+
+- Changed banner color
