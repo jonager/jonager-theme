@@ -165,6 +165,7 @@
         "support",
         "keyword.other.unit",
         "source",
+        "parameter.variable.function"
 			],
 			"settings": {
 				"foreground": "#cdd2db"
@@ -175,7 +176,8 @@
 			"scope": [
         "meta.brace",
         "meta.block",
-        "punctuation"
+        "punctuation",
+        "meta.function.definition"
 			],
 			"settings": {
 				"foreground": "#447e81"

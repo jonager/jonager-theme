@@ -35,3 +35,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.9
 
 - changed color "source" attr
+
+## 0.1.0
+
+- changed color for function's ()
