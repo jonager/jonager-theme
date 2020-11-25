@@ -146,7 +146,8 @@
         "keyword.operator.assignment",
         "keyword.operator.new",
         "storage",
-        "entity.name.label"
+        "entity.name.label",
+        "variable.language.this"
 			],
 			"settings": {
 				"foreground": "#c678dd"
@@ -284,7 +285,7 @@
         "constant.language.import-export-all"
 			],
 			"settings": {
-				"foreground": "#bbc1cc"
+				"foreground": "#CDD2DB"
 			}
 		}
 	]
