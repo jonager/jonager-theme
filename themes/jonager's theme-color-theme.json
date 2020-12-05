@@ -187,7 +187,8 @@
 		{
 			"name": "Support Primitive",
 			"scope": [
-        "support.type.primitive"
+        "support.type.primitive",
+        "support.type.builtin"
 			],
 			"settings": {
 				"foreground": "#98C379"

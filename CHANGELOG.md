@@ -43,3 +43,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.1.1
 
 - made this keyword color the same as other keywords, import \* same color as variables
+
+## 0.1.2
+
+- made object keyword same color as primitive types
